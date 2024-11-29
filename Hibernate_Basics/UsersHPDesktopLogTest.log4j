@@ -1,0 +1,8 @@
+2024-07-20 12:35:36 DEBUG DEBUG TestLog4j:11 - This is Debug...!
+2024-07-20 12:35:36 INFO  INFO  TestLog4j:12 - This is Info...!
+2024-07-20 12:35:36 WARN  WARN  TestLog4j:13 - This is Warn...!
+2024-07-20 12:35:36 ERROR ERROR TestLog4j:14 - This is Error...!
+2024-07-20 12:35:36 FATAL FATAL TestLog4j:15 - This is Fatal...!
+2024-07-20 12:35:36 INFO  INFO  TestLog4j:28 - Arithmetic Error 
+java.lang.ArithmeticException: / by zero
+	at com.rays.log4j.TestLog4j.main(TestLog4j.java:21)
